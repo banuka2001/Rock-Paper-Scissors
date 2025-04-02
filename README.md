@@ -1,3 +1,7 @@
+# Copyright (c) 2025 Your Name
+# Licensed under the MIT License
+
+
 Simple JavaScript project Rock, Paper, Scissors game
 
 ---- I have used below theories in the project ----
@@ -21,3 +25,7 @@ Normalized inputs to uppercase (toUpperCase()) for case-insensitive comparisons.
 5. Switch-Case Optimization
 
 Mapped random numbers to game choices via switch-case for readability.
+
+
+## License & Attribution
+This project is created by Banuka Dilshan. If you use or modify it, please give proper credit.

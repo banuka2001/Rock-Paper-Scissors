@@ -1,6 +1,3 @@
-# Copyright (c) 2025 Your Name
-# Licensed under the MIT License
-
 
 Simple JavaScript project Rock, Paper, Scissors game
 
